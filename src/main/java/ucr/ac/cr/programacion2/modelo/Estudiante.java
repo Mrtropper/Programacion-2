@@ -38,5 +38,4 @@ public class Estudiante {
         this.nombre = nombre;
     }
     
-    }
 }
